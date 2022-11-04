@@ -1,0 +1,21 @@
+table{
+    background-color: #eeeae0;
+    padding: 20px;
+    color:656670;
+    border-radius: 20px;
+}
+tbody td{
+    background-color: #ffd8bf;
+}
+td{
+    padding: 10px;
+    width: 80px;
+    border: 2px solid #eeeae0;
+}
+.colonka{
+    width: 155px;
+}
+caption{
+    margin-bottom: 20px;
+    text-align: left;
+}
